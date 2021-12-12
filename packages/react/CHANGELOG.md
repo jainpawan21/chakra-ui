@@ -1,5 +1,13 @@
 # Change Log
 
+## 1.7.4
+
+### Patch Changes
+
+- Updated dependencies
+  [[`f05f56b9a`](https://github.com/chakra-ui/chakra-ui/commit/f05f56b9a9abe27947ed32ae39d01602e1be8a76)]:
+  - @chakra-ui/tooltip@1.4.3
+
 ## 1.7.3
 
 ### Patch Changes
